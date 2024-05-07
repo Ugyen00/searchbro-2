@@ -16,7 +16,7 @@ const meta = {
 export const metadata: Metadata = {
   ...meta,
   title: {
-    default: "answer website",
+    default: "Searchbro",
     template: `%s - answer website`,
   },
   icons: {
