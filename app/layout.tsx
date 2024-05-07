@@ -11,7 +11,7 @@ import { Providers } from "@/components/providers";
 
 const meta = {
   title: "Searchbro",
-  description: "anwser engine built by developers digest",
+  description: "anwser engine",
 };
 export const metadata: Metadata = {
   ...meta,
@@ -21,8 +21,8 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: "/favicon.ico",
-    shortcut: "/favicon-16x16.png",
-    apple: "/apple-touch-icon.png",
+    shortcut: "/favicon.ico",
+    apple: "/favicon.ico",
   },
   twitter: {
     ...meta,
